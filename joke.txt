@@ -2,3 +2,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Joe is a new man on a construction crew. 
+The first day on the job, he opens his lunch box and mumbles, “Oh no, peanut butter!” 
+The next day, “Peanut butter again!” This goes on for days, until another worker says, “Why don’t you ask your wife to make a different lunch?” 
+Joe replies, “I’m not married. I make my own lunch.”
